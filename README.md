@@ -1,5 +1,6 @@
 # Node.js Module Template
 
+![Dependencies Status](https://david-dm.org/tur-nr/node-module-template.svg)
 [![Build Status](https://travis-ci.org/tur-nr/node-module-template.svg?branch=master)](https://travis-ci.org/tur-nr/node-module-template)
 [![Coverage Status](https://coveralls.io/repos/github/tur-nr/node-module-template/badge.svg?branch=master)](https://coveralls.io/github/tur-nr/node-module-template?branch=master)
 [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo)
