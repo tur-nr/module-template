@@ -10,6 +10,6 @@ trim_trailing_whitespace = true
 [*.js]
 indent_size = 4
 
-[{.json,.babelrc,.travis.yml}]
+[{*.json,.babelrc,.travis.yml}]
 indent_style = space
 indent_size = 2

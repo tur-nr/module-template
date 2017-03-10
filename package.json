@@ -8,11 +8,11 @@
   "author": "Christopher Turner <turner296@gmail.com>",
   "license": "MIT",
   "scripts": {
-		"build": "gulp",
+    "build": "gulp",
     "lint": "xo",
     "pretest": "yarn run lint",
     "test": "jest",
-		"prepublish": "yarn run build"
+    "prepublish": "yarn run build"
   },
   "dependencies": {
     "babel-runtime": "^6.23.0"
