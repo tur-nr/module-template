@@ -11,16 +11,10 @@ Opinionated boilerplate for creating new node modules.
 
 Fork repository. Write your code in `src/` and tests in `test/`.
 
-### Scripts
+### Building
 
-_Build_
 ```sh
 yarn run build
-```
-
-_Test_
-```sh
-yarn test
 ```
 
 ### What's Inside
