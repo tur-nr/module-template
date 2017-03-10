@@ -1,7 +1,7 @@
-import module from '../src';
+import truth from '../src';
 
-describe('module', () => {
+describe('#truth', () => {
 	it('should be truthy', () => {
-		expect(module).toBeTruthy();
+		expect(truth()).toBeTruthy();
 	});
 });
